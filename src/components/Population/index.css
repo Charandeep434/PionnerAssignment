@@ -1,0 +1,25 @@
+.bar-chart{
+    margin: 12px;
+}
+.population-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    color: #ffffff;
+    background-color: rgb(84, 83, 83);
+}
+.heading-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.logo{
+    align-self: center;
+    padding-top: 12px;
+    font-size: 29px
+}
+.heading{
+    padding: 12px;
+    font-size: 36px;
+}

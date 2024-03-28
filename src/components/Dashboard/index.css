@@ -1,0 +1,27 @@
+.link{
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+}
+.dashboard{
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    background-color: black;
+    justify-content: space-around;
+    height: 100vh;
+}
+.nav-link{
+    display: flex;
+    flex-direction: column;
+}
+.heading-dashboard{
+    color: white;
+    padding: 12px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.bottom-elements{
+    color: white;
+    padding: 12px;
+}
